@@ -1,0 +1,19 @@
+id,value,mod_100,mod_250,category_50,group_200
+# This is a placeholder for dataset_large.csv
+# For actual performance testing, this file should be replaced with the real one.
+# The following is a small sample to establish structure, not for performance measurement.
+1,1001,1,1,cat_1,grp_1
+2,1002,2,2,cat_2,grp_2
+3,1003,3,3,cat_3,grp_3
+4,1004,4,4,cat_4,grp_4
+5,1005,5,5,cat_5,grp_5
+6,1006,6,6,cat_6,grp_6
+7,1007,7,7,cat_7,grp_7
+8,1008,8,8,cat_8,grp_8
+9,1009,9,9,cat_9,grp_9
+10,1010,10,10,cat_10,grp_10
+# ... imagine 9990 more rows with diverse values for mod_100, mod_250, category_50, group_200
+# For example:
+# row for id 100: 100, 1100, 0, 100, cat_0, grp_100
+# row for id 250: 250, 1250, 50, 0, cat_25, grp_50
+# row for id 251: 251, 1251, 51, 1, cat_1, grp_51
