@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
+# https://www.robotstxt.org/robotstxt.html is the link
 User-agent: *
 Disallow:
